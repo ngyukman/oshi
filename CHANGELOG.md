@@ -1,16 +1,15 @@
 4.9.1 / 5.2.1 (in progress)
 ================
-* [#1285](https://github.com/oshi/oshi/pull/1247): Fallback to read properties file from classloader of the class - [@ngyukman](https://github.com/ngyukman).
 * Your contribution here
 
 4.9.0 / 5.2.0 (26/7/2020)
-================
 * [#1247](https://github.com/oshi/oshi/pull/1247): Add Automatic-Module-Name to support JPMS - [@dbwiddis](https://github.com/dbwiddis).
 * [#1258](https://github.com/oshi/oshi/pull/1258): (5.x) Add threads details of a process - [@tausiflife](https://github.com/tausiflife).
 * [#1262](https://github.com/oshi/oshi/pull/1262): Read macOS versions from properties file - [@hkbiet](https://github.com/hkbiet).
 * [#1266](https://github.com/oshi/oshi/pull/1266): Suppress repeated attempts to query failed PDH - [@dbwiddis](https://github.com/dbwiddis).
 * [#1267](https://github.com/oshi/oshi/pull/1267): Check proc_pidinfo return value before incrementing numberOfThreads - [@markkulube](https://github.com/markkulube).
 * [#1270](https://github.com/oshi/oshi/pull/1270): (5.x) Add page fault info to OSProcess - [@tausiflife](https://github.com/tausiflife).
+* [#1285](https://github.com/oshi/oshi/pull/1247): Fallback to read properties file from classloader of the class - [@ngyukman](https://github.com/ngyukman).
 
 4.8.2 / 5.1.2 (6/7/2020)
 ================
