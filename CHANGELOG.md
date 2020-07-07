@@ -3,6 +3,7 @@
 * [#1285](https://github.com/oshi/oshi/pull/): Fallback to read properties file from classloader of the class - [@ngyukman](https://github.com/ngyukman).
 
 4.9.0 / 5.2.0 (26/7/2020)
+================
 * [#1247](https://github.com/oshi/oshi/pull/1247): Add Automatic-Module-Name to support JPMS - [@dbwiddis](https://github.com/dbwiddis).
 * [#1258](https://github.com/oshi/oshi/pull/1258): (5.x) Add threads details of a process - [@tausiflife](https://github.com/tausiflife).
 * [#1262](https://github.com/oshi/oshi/pull/1262): Read macOS versions from properties file - [@hkbiet](https://github.com/hkbiet).
