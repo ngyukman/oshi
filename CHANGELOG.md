@@ -9,7 +9,6 @@
 * [#1266](https://github.com/oshi/oshi/pull/1266): Suppress repeated attempts to query failed PDH - [@dbwiddis](https://github.com/dbwiddis).
 * [#1267](https://github.com/oshi/oshi/pull/1267): Check proc_pidinfo return value before incrementing numberOfThreads - [@markkulube](https://github.com/markkulube).
 * [#1270](https://github.com/oshi/oshi/pull/1270): (5.x) Add page fault info to OSProcess - [@tausiflife](https://github.com/tausiflife).
-* [#1285](https://github.com/oshi/oshi/pull/1247): Fallback to read properties file from classloader of the class - [@ngyukman](https://github.com/ngyukman).
 
 4.8.2 / 5.1.2 (6/7/2020)
 ================
