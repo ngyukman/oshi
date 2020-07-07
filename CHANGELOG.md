@@ -1,6 +1,6 @@
 4.9.1 / 5.2.1 (in progress)
 ================
-* Your contribution here
+* [#1285](https://github.com/oshi/oshi/pull/): Fallback to read properties file from classloader of the class - [@ngyukman](https://github.com/ngyukman).
 
 4.9.0 / 5.2.0 (26/7/2020)
 * [#1247](https://github.com/oshi/oshi/pull/1247): Add Automatic-Module-Name to support JPMS - [@dbwiddis](https://github.com/dbwiddis).
